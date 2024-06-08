@@ -14,10 +14,10 @@ import (
 	"syscall"
 
 	"github.com/fatih/color"
-	// "github.com/xalanq/cf-tool/cookiejar"
+	// "github.com/shumengliu/cf-tool/cookiejar"
 	"net/http/cookiejar"
 
-	"github.com/xalanq/cf-tool/util"
+	"github.com/shumengliu/cf-tool/util"
 	"golang.org/x/crypto/ssh/terminal"
 )
 

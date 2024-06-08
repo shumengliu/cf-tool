@@ -1,4 +1,4 @@
-module github.com/xalanq/cf-tool
+module github.com/shumengliu/cf-tool
 
 go 1.21.2
 

@@ -14,7 +14,7 @@ import (
 	"github.com/draychev/go-toolbox/pkg/logger"
 	"github.com/fatih/color"
 	"github.com/k0kubun/go-ansi"
-	"github.com/xalanq/cf-tool/util"
+	"github.com/shumengliu/cf-tool/util"
 )
 
 var log = logger.NewPretty("client")

@@ -37,7 +37,7 @@ var Langs = map[string]string{
 	"46": "Java 8 ZIP",
 	"47": "J",
 	"48": "Kotlin 1.4.0",
-	"49": "Rust 1.49.0",
+	"49": "Rust 1.75.0 (2021)",
 	"50": "GNU G++14 6.4.0",
 	"51": "PascalABC.NET 3.4.2",
 	"52": "Clang++17 Diagnostics",
